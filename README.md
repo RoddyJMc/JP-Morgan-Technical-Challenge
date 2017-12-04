@@ -1,7 +1,7 @@
 # JP-Morgan-Technical-Challenge
 Tech challenge for Javascript dev role
 
-Once you have cloned the repo...
+Once you have cloned the repo the server MUST be started first:
 
 Starting the server:
 
